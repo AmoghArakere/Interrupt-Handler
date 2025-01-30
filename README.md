@@ -1,3 +1,4 @@
+```bash
 gedit p2.c
 gedit divzero.c
 gedit Makefile
@@ -11,3 +12,4 @@ sudo chmod 666 /dev/divzero
 sudo dmesg | tail
 sudo rmmod divzero
 sudo dmesg | tail
+
